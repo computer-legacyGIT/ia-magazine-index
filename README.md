@@ -12,9 +12,9 @@ Directory Structure
 To aid with browsing, a level of structure has been created to store the XML files.
 
 
-Top Level - Country of Publication
-Sub Level - Name of Publication
-File Level - An XML file that follows the format of [Name of Publication][Date of Publication in YYYYMMDD format][Any extra title information such as issue number].XML
+* Top Level - Country of Publication
+* Sub Level - Name of Publication
+* File Level - An XML file that follows the format of [Name of Publication][Date of Publication in YYYYMMDD format][Any extra title information such as issue number].XML
 
 
 File Structure
@@ -44,11 +44,13 @@ To help identify magazines the metadata files should contain at least one subjec
 * Fashion - magazines that feature articles about fashion
 * Fishing - magazines that feature articles about various aspects of fishing or anglging
 * Film - magazines that feature articles about film
+* Gossip - magazines that focus on articles about gossip (such as celebrity gossip) (example: Hello)
 * History - magazines that feature articles about various periods of history
 * LocalInterest - magazines that feature articles about local interest
 * Locomotives - magazines that feature articles about locomotives
 * Lifestyle - magazines that feature articles about general lifestyle tips
 * Music - magazines that feature articles about music, inlcuding music production
+* Models - magazines that feature articles about making models like model planes, model boats, model cars
 * Pornography - magazines that exist to distribute pornographic imagery
 * Sports - magazines that feature articles about sports in general (example: Sports Illustrated)
 * Television - magazines that feature general articles about television (example: TV Guide)
