@@ -1,8 +1,11 @@
 This project exists to index, catalogue or otherwise make the ability of tracking what exists a magazine on The Internet Archive.
 
+
 This project repository will NOT include any magazine content (such as images, PDF, CBZ, ZIP etc.) - that content is expected to be hosted on The Internet Archive.
 
+
 This project will INCLUDE metadata about magazines that have been submitted to The Internet Archive in parseable XML files.
+
 
 Directory Structure
 ------------
