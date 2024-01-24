@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<publication>
-    <title>Sports Illustrated</title>
+<magazine>
+	<title>Sports Illustrated</title>
 	<publisher>Time Inc.</publisher>
 	<date>19940214</date>
-    <country>US</country>
-    <volume>80</volume>
+	<country>US</country>
+	<volume>80</volume>
 	<issuenumber>6</issuenumber>
 	<eti>Swimsuit Issue</eti>
 	<subject>Sports,Lifestyle</subject>
-    <pages>192</pages>
-    <uri>sports-illustrated-1994-02-14-swimsuit-issue-c</uri>
+	<pages>192</pages>
+	<uri>sports-illustrated-1994-02-14-swimsuit-issue-c</uri>
 	<uploader>ringthebell77</uploader>
 	<uploaded>20231001</uploaded>
-</publication>
+	<comments>Good quality scan, adverts included. Decently aligned.</comments>
+</magazine>
